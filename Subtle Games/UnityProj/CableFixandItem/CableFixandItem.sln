@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BC259E99-CC58-86B1-ACEA-90B528C3CF50}") = "CableFixandItem", "Assembly-CSharp.csproj", "{9C6A50A7-7A6C-7962-A382-5B2EA95B1506}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C6A50A7-7A6C-7962-A382-5B2EA95B1506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C6A50A7-7A6C-7962-A382-5B2EA95B1506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C6A50A7-7A6C-7962-A382-5B2EA95B1506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C6A50A7-7A6C-7962-A382-5B2EA95B1506}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

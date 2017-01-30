@@ -1,0 +1,42 @@
+/Users/JPARK/New Unity Project/Temp/bin/Debug/UnityEngine.dll
+/Users/JPARK/New Unity Project/Temp/bin/Debug/UnityEditor.dll
+/Users/JPARK/New Unity Project/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/JPARK/New Unity Project/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/JPARK/New Unity Project/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/JPARK/New Unity Project/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/JPARK/New Unity Project/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/JPARK/New Unity Project/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/JPARK/New Unity Project/Temp/bin/Debug/Mono.Cecil.dll
+/Users/JPARK/New Unity Project/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/JPARK/New Unity Project/Temp/bin/Debug/Unity.DataContract.dll
+/Users/JPARK/New Unity Project/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/JPARK/New Unity Project/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/JPARK/New Unity Project/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/JPARK/New Unity Project/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/JPARK/New Unity Project/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/JPARK/New Unity Project/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/JPARK/New Unity Project/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/JPARK/New Unity Project/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/JPARK/New Unity Project/obj/Debug/Assembly-CSharp.dll
+/Users/JPARK/New Unity Project/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/JPARK/CableDemo/obj/Debug/Assembly-CSharp.dll
+/Users/JPARK/CableDemo/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/JPARK/CableDemo/Temp/bin/Debug/UnityEngine.dll
+/Users/JPARK/CableDemo/Temp/bin/Debug/UnityEditor.dll
+/Users/JPARK/CableDemo/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/JPARK/CableDemo/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/JPARK/CableDemo/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/JPARK/CableDemo/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/JPARK/CableDemo/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/JPARK/CableDemo/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/JPARK/CableDemo/Temp/bin/Debug/Mono.Cecil.dll
+/Users/JPARK/CableDemo/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/JPARK/CableDemo/Temp/bin/Debug/Unity.DataContract.dll
+/Users/JPARK/CableDemo/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/JPARK/CableDemo/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/JPARK/CableDemo/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/JPARK/CableDemo/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/JPARK/CableDemo/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/JPARK/CableDemo/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/JPARK/CableDemo/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/JPARK/CableDemo/Temp/bin/Debug/Assembly-CSharp.dll

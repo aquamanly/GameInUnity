@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0da848e9a4bf3454bb00265b31f5f5d4
+timeCreated: 1485031260
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Factoria
+  fontNames:
+  - Factoria
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
